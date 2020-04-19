@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CovidStats</string>
+    <string name="getdata">Get Data</string>
+</resources>
